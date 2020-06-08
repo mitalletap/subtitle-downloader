@@ -329,7 +329,6 @@ bot.download_all_subtitle_files(data, file_name, directory)
 
 #     def login(self):        
 #         ost = OpenSubtitles()
-#         token = ost.login('droid-53', 'sh!loh10')
 #         return token
 
 #     def add_to_redo_list(self, name):
